@@ -6,7 +6,7 @@
 max_connections = 512
 
 # Leave blank if you want the nitro codes to be only saved to the file_name.
-webhook_url = ""
+webhook_url = "https://discord.com/api/webhooks/1220326454857044062/FqofKkbX8AFL8_TS3yLY_SzRwYRz-UVlBu3AQk-llohUk_e2-75eSNu65oJ5NGQDJAf1"
 
 # The number of seconds to wait for a request to the Discord API.
 timeout = 10
